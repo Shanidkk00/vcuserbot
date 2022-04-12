@@ -27,7 +27,7 @@
 
 ### Host Bot 📡
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ImJanindu/vcplayerbot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Shanidkk00/vcuserbot)
 
 ### Pyrogram String Session 🖱
 - [String session here](https://replit.com/@SpEcHiDe/GenerateStringSession)
